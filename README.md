@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on webdev projects.
 
-📫 How to reach me: Email me @ gargshivam311201@gmail.com or here's my LinkedIn https://www.linkedin.com/in/shivam-garg-b685271ba/.
+📫 How to reach me: Email me @ gargshivam311201@gmail.com or here's my [LinkedIn](https://www.linkedin.com/in/shivam-garg-b685271ba/).
 
 😄 Pronouns: He/Him
 
