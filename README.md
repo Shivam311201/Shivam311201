@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny.
 
+Connect with me :<a href="https://www.linkedin.com/in/shivam-garg-b685271ba/"> LinkedIn </a> | <a href="https://www.instagram.com/shivamgarg_31/"> Instagram </a>|<a href="https://twitter.com/ShivamG59611235"> Twitter </a>
+
 <h3>Languages and Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" />
